@@ -1,3 +1,18 @@
 body {
     background-color: #101b27;
 }
+footer {
+    background-color: #0d1b27;
+    color: #8b8a8a;
+
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.laft {
+    text-align: left;
+}
+
+.rite {
+    text-align: right;
+}

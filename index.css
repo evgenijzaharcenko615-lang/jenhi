@@ -1,6 +1,10 @@
 body {
     background-color: #101b27;
 }
+header {
+    background-color: #101d28;
+    border-bottom: 1px solid #303030;
+}
 footer {
     background-color: #0d1b27;
     color: #8b8a8a;

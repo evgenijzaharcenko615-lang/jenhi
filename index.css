@@ -4,6 +4,51 @@ body {
 header {
     background-color: #101d28;
     border-bottom: 1px solid #303030;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.btn-btn-secondary {
+    color: #dcded3;
+    background-color: #101d28;
+    border: none;
+}
+.btn-btn-secondary:hover {
+    background-color: #1c2a3a;
+}
+.btn-btn-success {
+    color: #dcded3;
+    background-color: #101d28;
+    border: none;
+}
+.btn-btn-success:hover {
+    background-color: #1c2a3a;
+}
+.btn-btn-info {
+    color: #dcded3;
+    background-color: #101d28;
+    border: none;
+}
+.btn-btn-info:hover {
+    background-color: #1c2a3a;
+}
+.btn-btn-support {
+    color: #dcded3;
+    background-color: #101d28;
+    border: none;
+}
+.btn-btn-support:hover {
+    background-color: #1c2a3a;
 }
 footer {
     background-color: #0d1b27;
